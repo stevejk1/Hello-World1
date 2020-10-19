@@ -1,2 +1,1 @@
-# Hello-World1
-Sample Tutorial Repository
+This is a sample ReadMe file - hope it works!
